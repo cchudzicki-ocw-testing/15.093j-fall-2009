@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT15_093J_F09_sdp.pdf
 uid: 584eec8e-b3d5-67c0-95c5-21fc8981dca5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

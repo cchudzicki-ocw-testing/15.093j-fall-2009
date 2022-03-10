@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT15_093J_F09_fin_03_sol.pdf
 uid: e5696c5e-e30d-3611-7c5a-b5e7d3f82538
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: db2852ac-ede0-e08a-3433-5e0619171a6e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -35,7 +39,7 @@ FILES
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link cb538f78-4b66-b4d2-15b1-1537846380f2 "PDF" %}})  
-Data ([TXT](/courses/sloan-school-of-management/15-093j-optimization-methods-fall-2009/assignments/data.txt))
+Data ({{% resource_link 6b55d6a3-0aeb-09a6-9ac8-eaa39b85fcb7 "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

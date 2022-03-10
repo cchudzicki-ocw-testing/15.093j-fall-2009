@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: 87675643-1069-c50d-de8b-1a57f278badd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains exams from previous years and review material.

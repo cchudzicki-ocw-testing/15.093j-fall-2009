@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Recitations
 uid: cf58407a-2c2b-3892-6cb5-9cc75c2a27e8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Recitation notes are courtesy of Michael Frankovich and Shubham Gupta. Used with permission.

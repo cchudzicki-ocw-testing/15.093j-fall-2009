@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT15_093J_F09_fin_review.pdf
 uid: e39dfe25-eb8b-ec89-6a7b-7fa21819dc5d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

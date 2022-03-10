@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: faa3bb78-91b7-2614-585d-2a7ca7cd8711
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Assigned chapters are from the required textbook: Bertsimas, Dimitris, and John Tsitsiklis. _Introduction to Linear Optimization_. Belmont, MA: Athena Scientific, 1997. ISBN: 9781886529199.
