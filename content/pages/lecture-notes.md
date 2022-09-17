@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a complete set of lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -149,7 +150,7 @@ Courtesy of Prof. Andreas Schulz. Used with permission.
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 313d12c4-26c4-4380-ccd8-38dff3151690 "PDF" %}})
+({{% resource_link 313d12c4-26c4-4380-ccd8-38dff3151690 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +168,7 @@ Courtesy of Prof. Andreas Schulz. Used with permission.
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 75fae33b-5de3-1903-57ff-676fca791b69 "PDF" %}})
+({{% resource_link 75fae33b-5de3-1903-57ff-676fca791b69 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains exams from previous years and review material.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
